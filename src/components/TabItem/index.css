@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.li {
+  list-style-type: none;
+  margin-right: 12px;
+  color: #7b8794;
+  font-size: 15px;
+  font-family: 'roboto';
+}
+.tab-btn {
+  border-color: none;
+  border: 0px;
+}
+.active-tab-btn {
+  color: #2563eb;
+  border-bottom: 1px solid #2563eb;
+}
